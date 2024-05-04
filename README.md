@@ -1,17 +1,36 @@
-# React + Vite
+# React + Vite Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This template provides a minimal setup to get React working in Vite with HMR (Hot Module Replacement) and some ESLint rules. It includes two official plugins:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# ai-chatbot
+- **@vitejs/plugin-react**: Uses Babel for Fast Refresh.
+- **@vitejs/plugin-react-swc**: Uses SWC for Fast Refresh.
 
-ai chatbot using gemini api : https://ai.google.dev/gemini-api/docs/api-key
+## Features
 
+- **Fast Refresh**: Utilizes either Babel or SWC for Fast Refresh, depending on the chosen plugin.
+- **ESLint**: Includes ESLint with some predefined rules to maintain code quality.
 
-## add .env file
+## Installation
 
-VITE_API_KEY = <'your_api_key'>
+### Prerequisites
 
+Make sure you have Node.js installed on your machine.
+
+### Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-url>
+   
+2. Navigate to the project directory:
+
+   cd <project-directory>
+   
+3. Install dependencies:
+
+   npm install
+
+   
