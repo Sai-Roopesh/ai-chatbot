@@ -27,7 +27,8 @@ Make sure you have Node.js installed on your machine.
    
 2. Navigate to the project directory:
 
-   cd <project-directory>
+   ```bash
+   cd ai-chatbot
    
 3. Install dependencies:
 
