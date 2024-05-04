@@ -43,6 +43,18 @@ Create a `.env` file in the root directory of your project and add your API key 
 
 ```plaintext
 VITE_API_KEY=<'your_api_key'>
+```
+
+Usage
+-----
+
+To start the development server, run the following command:
+
+```bash
+npm run dev
+```
+
+This will start the development server with HMR enabled. You can access your application at [http://localhost:3000](http://localhost:3000).
 
 
    
