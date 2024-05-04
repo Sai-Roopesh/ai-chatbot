@@ -32,6 +32,17 @@ Make sure you have Node.js installed on your machine.
    
 3. Install dependencies:
 
+   ```bash
    npm install
+
+## Configuration
+
+### Environment Variables
+
+Create a `.env` file in the root directory of your project and add your API key as follows:
+
+```plaintext
+VITE_API_KEY=<'your_api_key'>
+
 
    
