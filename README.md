@@ -11,3 +11,7 @@ Currently, two official plugins are available:
 ai chatbot using gemini api : https://ai.google.dev/gemini-api/docs/api-key
 
 
+## add .env file
+
+VITE_API_KEY = <'your_api_key'>
+
